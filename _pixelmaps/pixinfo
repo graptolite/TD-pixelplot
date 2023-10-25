@@ -1,0 +1,29 @@
+Temperature [C]
+Pressure [Bar]
+  4.000000000000E+02    8.000000000000E+02    2.000000000000E+03    1.000000000000E+04
+   15.0000     15.0000
+    5     10      2
+   3
+ 
+domino version: 04.02.2017
+database: JUN92d.bs
+   1
+AL(2)SI(1)O(?)
+G_system                        
+G_tot                           
+S_tot                           
+V_tot                           
+H_tot                           
+TS_tot                          
+PV-_tot                         
+U_tot                           
+n_O                             
+n_AL                            
+n_SI                            
+vol_O                           
+rho_O                           
+vol_AL                          
+rho_AL                          
+vol_SI                          
+rho_SI                          
+assemblage                      
